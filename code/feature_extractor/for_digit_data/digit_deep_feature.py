@@ -8,7 +8,7 @@ from __future__ import print_function
 
 import argparse
 
-import data_loader
+import digit_data_loader
 import numpy as np
 import torch
 import torch.nn as nn
